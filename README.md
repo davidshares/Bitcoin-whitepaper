@@ -1,1 +1,1 @@
-# whitepaper
+# Bitcoin whitepaper
